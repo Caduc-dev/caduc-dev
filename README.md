@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá! Me chamo Carlos Eduardo (cadu) 
 
-<!--
-**Caduc-dev/caduc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciencia da computação (início em Jul/2025)  
+💻 Atualmente estudando Lógica de Programação e algoritmos, Java.
+🚀 Buscando crescer como desenvolvedor e contribuir com projetos reais e úteis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo
+
+- Java
+- Git & GitHub
+- VS Code
+- Estrutura de dados e lógica de programação
+- Kotlin
+---
+
+## 📌 Repositórios em destaque
+
+--- calculadora-simples-java
+
+## 📚 Em andamento
+
+- Algoritmos e Lógica de Programação (Udemy)  
+- Java Básico - Curso em video (Gustavo Gunabara)
+- Projeto de sistema simples para controle de vendas
+
+---
+
+## 📫 Vamos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/caducdev)
+
+---
+
+⭐ Me segue para acompanhar minha evolução como dev!
