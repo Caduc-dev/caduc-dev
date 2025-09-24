@@ -16,6 +16,7 @@
 
 ## 📌 Repositórios em destaque
 
+--- pokedex-java
 --- calculadora-simples-java
 
 ## 📚 Em andamento
