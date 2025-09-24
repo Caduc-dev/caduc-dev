@@ -12,7 +12,6 @@
 - Git & GitHub
 - VS Code
 - Estrutura de dados e lógica de programação
-- Kotlin
 ---
 
 ## 📌 Repositórios em destaque
